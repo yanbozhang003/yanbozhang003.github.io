@@ -17,7 +17,7 @@ Please refer to my CV (in [English](./assets/files/CV/CV_Yanbo_English.pdf) or [
 
 ## News
 - **[May 2023]** Commencing work as a Postdoctoral Research Fellow in SCSE, NTU.
-- **[April 2023]** Our paper about general and practical Wi-Fi handwriting recognition is accepted to TMC 2023. 
+- **[April 2023]** Our paper about general Wi-Fi handwriting recognition is accepted to TMC 2023. 
 - **[January 2023]** Successfully defending my Ph.D thesis. 
 
 {% include_relative _includes/publications.md %}
