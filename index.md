@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am currently a Postdoc Research Fellow in the School of Computer Science and Engineering (SCSE) at Nanyang Technological University (NTU).
-I obtained the Ph.D degree in 2023 from NTU, where I learnt a lot from my supervisor Prof. Mo Li.
+I obtained my Ph.D. degree in 2023 from NTU, where I was fortunate to receive insightful guidance from Professor Mo Li.
 I received my B.E. degree in 2017 from the School of Electronics and Information Engineering, Harbin Institute of Technology (HIT).
 
 ## Research Interests
