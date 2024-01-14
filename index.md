@@ -7,7 +7,7 @@ layout: homepage
 I am currently a Postdoc Research Fellow in the [School of Computer Science and Engineering (SCSE)](https://www.ntu.edu.sg/scse) at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/).
 I obtained my Ph.D. degree in 2023 from NTU, where I was fortunate to receive insightful guidance from Professor Mo Li.
 I received my B.E. degree in 2017 from the School of Electronics and Information Engineering, Harbin Institute of Technology (HIT).
-Please find details in my CV. 
+Please refer to my CV (in [English](./assets/files/CV/CV_Yanbo_English.pdf) [中文](./assets/files/CV/CV-Yanbo_Chinese.pdf)) for more detailed information. 
 
 ## Research Interests
 
