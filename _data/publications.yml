@@ -19,7 +19,7 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:di9IUWx--KMJ:scholar.google.com/&output=citation&scisdr=ClFqvcr6EMGB8wCB034:AFWwaeYAAAAAZaOHy34o83qGyuTrJ_bceYMHLeA&scisig=AFWwaeYAAAAAZaOHy6l58jp0UvxVpibcs0CnrbY&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/publications_img/WINAS.PNG
 
-    - title: "SWAN: Stitched Wi-Fi ANtennas"
+  - title: "SWAN: Stitched Wi-Fi ANtennas"
     authors: Yaxiong Xie, <strong>Yanbo Zhang</strong>, Jansen Christian Liando, Mo Li
     conference_short: MobiCom
     conference: Proceedings of the 24th Annual International Conference on Mobile Computing and Networking <strong>(MobiCom)</strong>, 2018.
