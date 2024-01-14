@@ -7,7 +7,7 @@ main:
     pdf: ./assets/files/publications_pdf/WiRITE.pdf
     code: https://yanbozhang003.github.io/
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:trfhNyif0V4J:scholar.google.com/&output=citation&scisdr=ClFqvcr6EMGB8wCErWk:AFWwaeYAAAAAZaOCtWmyUOVsykJZLHu7gobgvwY&scisig=AFWwaeYAAAAAZaOCtVUGQqh6x5jqD_ruF8SIL70&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/publications_img/WiRITE.png
+    image: ./assets/img/WiRITE.png
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
