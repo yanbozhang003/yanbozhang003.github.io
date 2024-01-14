@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at NTU
+I am currently a Postdoc Research Fellow at SCSE, Nanyang Technological University (NTU). 
+
+I was a 
 
 ## Research Interests
 
