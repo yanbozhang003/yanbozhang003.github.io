@@ -13,7 +13,7 @@ Please refer to my [CV](./assets/files/CV/Yanbo_CV.pdf) for more detailed inform
 ## Research Interests
 
 - **Smart sensing:** Wireless signal (e.g., Wi-Fi, Acoustic, Millimeter-wave) based passive tracking, imaging and gesture recognition
-- **LoRaWAN system:** LoRaWAN reliability, Collision avoidance, Adaptive data rate (ADR), Full-duplex
+- **LoRaWAN system:** LoRaWAN reliability, Collision avoidance, Full-duplex, ADR
 <!-- - **Reconfigurable Intelligent Surface (RIS):** Antenna design and system optimization -->
 
 ## News
