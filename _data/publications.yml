@@ -5,8 +5,8 @@ main:
     conference_short: TMC
     conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2023.
     pdf: ./assets/files/publications_pdf/WiRITE.pdf
-    # code: https://yanbozhang003.github.io/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:trfhNyif0V4J:scholar.google.com/&output=citation&scisdr=ClFqvcr6EMGB8wCErWk:AFWwaeYAAAAAZaOCtWmyUOVsykJZLHu7gobgvwY&scisig=AFWwaeYAAAAAZaOCtVUGQqh6x5jqD_ruF8SIL70&scisf=4&ct=citation&cd=-1&hl=en
+    code: https://github.com/yanbozhang003/WiRITE
+    bibtex: https://github.com/yanbozhang003/WiRITE/blob/main/Bibtex
     image: ./assets/img/publications_img/WiRITE.JPG
 
   - title: "Channel Adapted Antenna Augmentation for Improved Wi-Fi Throughput"
@@ -16,7 +16,7 @@ main:
     pdf: ./assets/files/publications_pdf/WiRITE.pdf
     code: https://github.com/yanbozhang003/WINAS
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:di9IUWx--KMJ:scholar.google.com/&output=citation&scisdr=ClFqvcr6EMGB8wCB034:AFWwaeYAAAAAZaOHy34o83qGyuTrJ_bceYMHLeA&scisig=AFWwaeYAAAAAZaOHy6l58jp0UvxVpibcs0CnrbY&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: https://github.com/yanbozhang003/WINAS/blob/main/Bibtex
     image: ./assets/img/publications_img/WINAS_padded.png
 
   - title: "SWAN: Stitched Wi-Fi ANtennas"
