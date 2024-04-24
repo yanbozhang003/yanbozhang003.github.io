@@ -13,7 +13,7 @@ main:
     authors: <strong>Yanbo Zhang</strong>, Weiping Sun, Yidong Ren, Sung-ju Lee, Mo Li
     conference_short: TMC
     conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2022.
-    pdf: ./assets/files/publications_pdf/WiRITE.pdf
+    pdf: ./assets/files/publications_pdf/WINAS.pdf
     code: https://github.com/yanbozhang003/WINAS
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://github.com/yanbozhang003/WINAS/blob/main/Bibtex
