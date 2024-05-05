@@ -7,7 +7,7 @@ main:
     pdf: ./assets/files/publications_pdf/AcFace.pdf
     code: https://github.com/yanbozhang003/AcFace
     # bibtex: https://github.com/yanbozhang003/WiRITE/blob/main/Bibtex
-    image: ./assets/img/publications_img/AcFace1.PNG
+    image: ./assets/img/publications_img/AcFace_padded.PNG
 
   - title: "WiRITE: General and Practical Wi-Fi based Hand-Writing Recognition"
     authors: <strong>Yanbo Zhang</strong>, Weiping Sun, Mo Li
