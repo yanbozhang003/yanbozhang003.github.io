@@ -7,11 +7,11 @@ main:
     pdf: ./assets/files/publications_pdf/WiRITE.pdf
     code: https://github.com/yanbozhang003/WiRITE
     bibtex: https://github.com/yanbozhang003/WiRITE/blob/main/Bibtex
-    image: ./assets/img/publications_img/WiRITE.JPG
+    image: ./assets/img/publications_img/AcFace.PNG
 
   - title: "WiRITE: General and Practical Wi-Fi based Hand-Writing Recognition"
     authors: <strong>Yanbo Zhang</strong>, Weiping Sun, Mo Li
-    conference_short: TMC
+    conference_short: TMC'23
     conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2023.
     pdf: ./assets/files/publications_pdf/WiRITE.pdf
     code: https://github.com/yanbozhang003/WiRITE
@@ -20,7 +20,7 @@ main:
 
   - title: "Channel Adapted Antenna Augmentation for Improved Wi-Fi Throughput"
     authors: <strong>Yanbo Zhang</strong>, Weiping Sun, Yidong Ren, Sung-ju Lee, Mo Li
-    conference_short: TMC
+    conference_short: TMC'22
     conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2022.
     pdf: ./assets/files/publications_pdf/WINAS.pdf
     code: https://github.com/yanbozhang003/WINAS
@@ -30,7 +30,7 @@ main:
 
   - title: "SWAN: Stitched Wi-Fi ANtennas"
     authors: Yaxiong Xie, <strong>Yanbo Zhang</strong>, Jansen Christian Liando, Mo Li
-    conference_short: MobiCom
+    conference_short: MobiCom'18
     conference: Proceedings of the 24th Annual International Conference on Mobile Computing and Networking <strong>(MobiCom)</strong>, 2018.
     pdf: ./assets/files/publications_pdf/SWAN.pdf
     code: https://github.com/xieyaxiongfly/SWAN_src_AP
