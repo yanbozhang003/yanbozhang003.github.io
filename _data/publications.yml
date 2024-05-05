@@ -9,6 +9,15 @@ main:
     bibtex: https://github.com/yanbozhang003/WiRITE/blob/main/Bibtex
     image: ./assets/img/publications_img/WiRITE.JPG
 
+  - title: "WiRITE: General and Practical Wi-Fi based Hand-Writing Recognition"
+    authors: <strong>Yanbo Zhang</strong>, Weiping Sun, Mo Li
+    conference_short: TMC
+    conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2023.
+    pdf: ./assets/files/publications_pdf/WiRITE.pdf
+    code: https://github.com/yanbozhang003/WiRITE
+    bibtex: https://github.com/yanbozhang003/WiRITE/blob/main/Bibtex
+    image: ./assets/img/publications_img/WiRITE.JPG
+
   - title: "Channel Adapted Antenna Augmentation for Improved Wi-Fi Throughput"
     authors: <strong>Yanbo Zhang</strong>, Weiping Sun, Yidong Ren, Sung-ju Lee, Mo Li
     conference_short: TMC
