@@ -1,9 +1,9 @@
 main:
 
-  - title: "WiRITE: General and Practical Wi-Fi based Hand-Writing Recognition"
-    authors: <strong>Yanbo Zhang</strong>, Weiping Sun, Mo Li
-    conference_short: TMC
-    conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2023.
+  - title: "Face Recognition In Harsh Conditions: An Acoustic Based Approach"
+    authors: <strong>Yanbo Zhang</strong>, Panrong Tong, Songfan Li, Yaxiong Xie, Mo Li
+    conference_short: MobiSys'24
+    conference: Proceedings of the 21st Annual International Conference on Mobile Systems, Applications and Services <strong>(MobiSys)</strong>, 2024.
     pdf: ./assets/files/publications_pdf/WiRITE.pdf
     code: https://github.com/yanbozhang003/WiRITE
     bibtex: https://github.com/yanbozhang003/WiRITE/blob/main/Bibtex
