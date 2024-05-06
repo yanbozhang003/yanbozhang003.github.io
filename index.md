@@ -17,7 +17,8 @@ Please refer to my [CV](./assets/files/CV/Yanbo_CV.pdf) for more detailed inform
 <!-- - **Reconfigurable Intelligent Surface (RIS):** Antenna design and system optimization -->
 
 ## News
-- **[May 2024]** Our paper about acoustic facial recognition is accepted to MobiSys 2024.
+- **[May 2024]** We obtained all four badges from MobiSys Artifact Evaluation. Check out the artifact: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11094213.svg)](https://doi.org/10.5281/zenodo.11094213).
+- **[April 2024]** Our paper about acoustic facial recognition is accepted to MobiSys 2024.
 - **[May 2023]** Commencing work as a Postdoctoral Research Fellow in SCSE, NTU.
 - **[April 2023]** Our paper about general Wi-Fi handwriting recognition is accepted to TMC 2023. 
 - **[January 2023]** Successfully defending my Ph.D thesis. 
