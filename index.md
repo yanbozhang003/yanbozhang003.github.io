@@ -22,7 +22,7 @@ Please refer to my [CV](./assets/files/CV/Yanbo_CV.pdf) for more detailed inform
 - **[April 2024]** Our paper about acoustic facial recognition is accepted to MobiSys 2024.
 - **[May 2023]** Commencing work as a Postdoctoral Research Fellow in SCSE, NTU.
 - **[April 2023]** Our paper about general Wi-Fi handwriting recognition is accepted to TMC 2023. 
-- **[January 2023]** Successfully defending my Ph.D thesis. 
+<!-- - **[January 2023]** Successfully defending my Ph.D thesis.  -->
 
 {% include_relative _includes/publications.md %}
 
