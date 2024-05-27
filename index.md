@@ -4,7 +4,8 @@ layout: homepage
 
 ## About Me
 
-I am currently a Postdoctoral Research Fellow in the [School of Computer Science and Engineering (SCSE)](https://www.ntu.edu.sg/scse) at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/).
+I am currently a Research Scientist at [BITS](https://www.better-iot.com.sg/). 
+I was a Postdoctoral Research Fellow in the [School of Computer Science and Engineering (SCSE)](https://www.ntu.edu.sg/scse) at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/).
 I obtained my Ph.D. degree in 2023 from NTU, where I was fortunate to receive insightful guidance from [Professor Mo Li](https://cse.hkust.edu.hk/~lim/).
 I received my B.E. degree in 2017 from the [School of Electronics and Information Engineering](https://seie.hit.edu.cn/), [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/).
 <!-- Please refer to my CV (in [English](./assets/files/CV/CV_Yanbo_English.pdf) or [中文](./assets/files/CV/CV-Yanbo_Chinese2.pdf)) for more detailed information.  -->
