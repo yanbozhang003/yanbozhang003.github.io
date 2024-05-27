@@ -18,7 +18,7 @@ Please refer to my [CV](./assets/files/CV/Yanbo_CV.pdf) for more detailed inform
 <!-- - **Reconfigurable Intelligent Surface (RIS):** Antenna design and system optimization -->
 
 ## News
-- **[May 2024]** I join [BITS](https://www.better-iot.com.sg/) as a Research Scientist. 
+- **[May 2024]** Logically graduate from NTU and join [BITS](https://www.better-iot.com.sg/) as a Research Scientist. 
 - **[May 2024]** We are awarded all four badges from MobiSys Artifact Evaluation. Check out the artifact: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11094213.svg)](https://doi.org/10.5281/zenodo.11094213).
 - **[April 2024]** Our paper about acoustic facial recognition is accepted to MobiSys 2024.
 - **[May 2023]** Commencing work as a Postdoctoral Research Fellow in SCSE, NTU.
