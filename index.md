@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a Research Scientist at [BITS](https://www.better-iot.com.sg/). 
+I am currently a Research Scientist at [BITS](https://www.better-iot.com.sg/), Singapore. 
 I was a Postdoctoral Research Fellow in the [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing) at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/).
 I obtained my Ph.D. degree in 2023 from NTU, where I was fortunate to receive insightful guidance from [Professor Mo Li](https://cse.hkust.edu.hk/~lim/).
 I received my B.E. degree in 2017 from the [School of Electronics and Information Engineering](https://seie.hit.edu.cn/), [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/).
