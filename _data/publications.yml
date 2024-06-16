@@ -6,6 +6,7 @@ main:
     conference: Proceedings of the 21st Annual International Conference on Mobile Systems, Applications and Services <strong>(MobiSys)</strong>, 2024.
     pdf: ./assets/files/publications_pdf/AcFace.pdf
     code: https://github.com/yanbozhang003/AcFace
+    slides: ./assets/files/publications_pdf/acFace_slides_v2_pdf.pdf
     bibtex: https://github.com/yanbozhang003/AcFace/blob/main/acm_3643832.3661855.bib
     image: ./assets/img/publications_img/AcFace2.png
 
