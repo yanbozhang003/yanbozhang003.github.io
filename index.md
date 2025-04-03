@@ -5,14 +5,14 @@ layout: homepage
 ## About Me
 
 I am currently a Post-doctoral Fellow at Hong Kong University of Science and Technology (HKUST). 
-Priory to this, I was a Postdoctoral Research Fellow at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/).
+I was a Postdoctoral Research Fellow at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/).
 I also co-founded [BITS (Singapore)](https://www.better-iot.com.sg/). 
 I obtained my Ph.D. degree in 2023 from [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), NTU, advised by [Professor Mo Li](https://cse.hkust.edu.hk/~lim/).
-I received my B.E. degree in 2017 from 
+Priory to this, I received my B.E. degree in 2017 from 
 <!-- the [School of Electronics and Information Engineering](https://seie.hit.edu.cn/),  -->
 [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/).
 <!-- Please refer to my CV (in [English](./assets/files/CV/CV_Yanbo_English.pdf) or [中文](./assets/files/CV/CV-Yanbo_Chinese2.pdf)) for more detailed information.  -->
-Please refer to my [CV](./assets/files/CV/Yanbo_CV.pdf) for more detailed information.
+Please refer to my [CV](./assets/files/CV/CV_Yanbo_English_2025.pdf) for more detailed information.
 
 ## Research Interests
 
