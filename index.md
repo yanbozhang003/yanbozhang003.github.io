@@ -6,7 +6,7 @@ layout: homepage
 
 I am currently a Post-doctoral Fellow at Hong Kong University of Science and Technology (HKUST). 
 Priory to this, I was a Postdoctoral Research Fellow in the [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing) at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/).
-I also co-founded BITS (Singapore). 
+I also co-founded [BITS (Singapore)](https://www.better-iot.com.sg/). 
 I obtained my Ph.D. degree in 2023 from NTU, advised by [Professor Mo Li](https://cse.hkust.edu.hk/~lim/).
 I received my B.E. degree in 2017 from 
 <!-- the [School of Electronics and Information Engineering](https://seie.hit.edu.cn/),  -->
