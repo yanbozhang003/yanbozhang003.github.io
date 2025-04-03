@@ -21,6 +21,7 @@ Please refer to my [CV](./assets/files/CV/CV_Yanbo_English_2025.pdf) for more de
 <!-- - **Reconfigurable Intelligent Surface (RIS):** Antenna design and system optimization -->
 
 ## News
+- **[April 2025]** I join [CSE, HKUST](https://cse.hkust.edu.hk/) as a Post-doctoral Fellow. 
 - **[June 2024]** Our paper won the Best Artifact Award at MobiSys 2024! Check out the artifact: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11094213.svg)](https://doi.org/10.5281/zenodo.11094213).
 - **[May 2024]** I join [BITS](https://www.better-iot.com.sg/) as a Research Scientist. 
 - **[May 2024]** We are awarded all four badges from MobiSys Artifact Evaluation. 
