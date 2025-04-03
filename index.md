@@ -16,8 +16,8 @@ Please refer to my [CV](./assets/files/CV/Yanbo_CV.pdf) for more detailed inform
 
 ## Research Interests
 
-- **Wireless sensing:** Localization and tracking, recognition, detection and identification
-- **LoRaWAN system:** Reliability, QoS, Full-duplex
+- **Wireless sensing:** Localization and tracking, vital signal monitroing, recognition and identification
+- **LoRaWAN communication:** High reliability, Dynamic QoS
 <!-- - **Reconfigurable Intelligent Surface (RIS):** Antenna design and system optimization -->
 
 ## News
