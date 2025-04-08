@@ -18,7 +18,7 @@ My research focuses on intelligent localization and sensing using wireless signa
 ## Research Interests
 
 - **Wireless sensing:** Localization and tracking, vital signal monitroing, recognition and identification
-- **IoT communication:** High reliability, Dynamic QoS
+- **IoT communication:** High reliability, Large capacity, Dynamic QoS
 <!-- - **Reconfigurable Intelligent Surface (RIS):** Antenna design and system optimization -->
 
 ## News
