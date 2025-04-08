@@ -4,15 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am currently a Post-doctoral Fellow at Hong Kong University of Science and Technology (HKUST). 
-I was a Postdoctoral Research Fellow at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/).
-I also co-founded [BITS (Singapore)](https://www.better-iot.com.sg/). 
-I obtained my Ph.D. degree in 2023 from [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), NTU, advised by [Professor Mo Li](https://cse.hkust.edu.hk/~lim/).
-Priory to this, I received my B.E. degree in 2017 from 
+I am currently a Postdoctoral Fellow at the Hong Kong University of Science and Technology (HKUST). Prior to this, I was a Postdoctoral Research Fellow at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/). I am also the co-founder of [BITS (Singapore)](https://www.better-iot.com.sg/), a company focused on intelligent IoT solutions.
+I received my Ph.D. in 2023 from the [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), NTU, under the supervision of [Professor Mo Li](https://cse.hkust.edu.hk/~lim/). Earlier, I earned my B.E. degree in 2017 from the [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/).
+For more details, please refer to my [CV](./assets/files/CV/CV_Yanbo_English_2025.pdf).
 <!-- the [School of Electronics and Information Engineering](https://seie.hit.edu.cn/),  -->
-[Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/).
 <!-- Please refer to my CV (in [English](./assets/files/CV/CV_Yanbo_English.pdf) or [中文](./assets/files/CV/CV-Yanbo_Chinese2.pdf)) for more detailed information.  -->
-Please refer to my [CV](./assets/files/CV/CV_Yanbo_English_2025.pdf) for more detailed information.
 
 ## Research Interests
 
