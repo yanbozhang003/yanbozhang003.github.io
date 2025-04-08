@@ -16,7 +16,7 @@ Additionally, I explore the evolution of IoT technologies (e.g., LoRaWAN, Sparkl
 ## Research Interests
 
 - **Wireless sensing:** Localization and tracking, vital signal monitroing, recognition and identification
-- **LoRaWAN communication:** High reliability, Dynamic QoS
+- **IoT communication:** High reliability, Dynamic QoS
 <!-- - **Reconfigurable Intelligent Surface (RIS):** Antenna design and system optimization -->
 
 ## News
