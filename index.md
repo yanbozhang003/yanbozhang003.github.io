@@ -10,6 +10,9 @@ For more details, please refer to my [CV](./assets/files/CV/CV_Yanbo_English_202
 <!-- the [School of Electronics and Information Engineering](https://seie.hit.edu.cn/),  -->
 <!-- Please refer to my CV (in [English](./assets/files/CV/CV_Yanbo_English.pdf) or [中文](./assets/files/CV/CV-Yanbo_Chinese2.pdf)) for more detailed information.  -->
 
+My research focuses on intelligent localization and sensing systems based on wireless signals. By leveraging ubiquitous ambient signals—including multi-protocol radio (e.g., Wi-Fi, UWB) and acoustic waves—I develop methods to observe and interpret environmental dynamics. My work combines advanced signal processing with AI-driven algorithms to extract precise location and state information of target objects, followed by real-world system implementation and validation.
+Additionally, I explore the evolution of IoT technologies (e.g., LoRaWAN, Sparklink) for industrial applications, with a focus on enhancing network reliability and tailoring Quality of Service (QoS) to meet the demands of complex industrial environments.
+
 ## Research Interests
 
 - **Wireless sensing:** Localization and tracking, vital signal monitroing, recognition and identification
