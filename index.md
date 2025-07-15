@@ -25,13 +25,14 @@ Additionally, I investigate the evolution of IoT technologies, including Sparkli
 <!-- - **Reconfigurable Intelligent Surface (RIS):** Antenna design and system optimization -->
 
 ## News
+- **[July 2025]** Our paper LoRaMirror is accepted to IEEE TMC. 
 - **[April 2025]** I join [CSE, HKUST](https://cse.hkust.edu.hk/) as a Post-doctoral Fellow. 
 - **[June 2024]** Our paper won the Best Artifact Award at MobiSys 2024! Check out the artifact: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11094213.svg)](https://doi.org/10.5281/zenodo.11094213).
 - **[May 2024]** I join [BITS](https://www.better-iot.com.sg/) as a Research Scientist. 
 - **[May 2024]** We are awarded all four badges from MobiSys Artifact Evaluation. 
 - **[April 2024]** Our paper about acoustic facial recognition is accepted to MobiSys 2024.
 - **[May 2023]** Commencing work as a Postdoctoral Research Fellow in SCSE, NTU.
-- **[April 2023]** Our paper about general Wi-Fi handwriting recognition is accepted to TMC 2023. 
+- **[April 2023]** Our paper about general Wi-Fi handwriting recognition is accepted to IEEE TMC. 
 <!-- - **[January 2023]** Successfully defending my Ph.D thesis.  -->
 
 {% include_relative _includes/publications.md %}
