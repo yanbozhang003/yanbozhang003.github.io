@@ -25,5 +25,5 @@
 </ul>
 
 <div style="max-width:65px; height:30px; margin:auto;">
-  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=cV0SW_IL0la_I5d9QbKN9dL9XK3ZLLm10o_ywUtPBz8&cl=ffffff&w=a"></script>
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=7IM6Imp2Of47qjiLYjNu8OnZBLJhF3vCsqXiKh9zdXU'></script>
 </div>
