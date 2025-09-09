@@ -24,6 +24,6 @@
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755"><autocolor>ACM MobiCom 2023 Artifacts Evaluation</autocolor></a></li>
 </ul>
 
-<div style="max-width:40px; height:30px; margin:auto;">
+<div style="max-width:250px; height:180px; margin:auto;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=cV0SW_IL0la_I5d9QbKN9dL9XK3ZLLm10o_ywUtPBz8&cl=ffffff&w=a"></script>
 </div>
