@@ -16,7 +16,7 @@ Additionally, I explore the evolution of IoT technologies (e.g., LoRaWAN, Sparkl
 My research focuses on intelligent localization and sensing using wireless signals. By leveraging ambient signals—including different types of radio (e.g., Wi-Fi, millimeter wave) and acoustic waves—I develop methods to perceive and interpret environmental dynamics. 
 <!-- My work combines signal processing and AI algorithms to extract precise location and state information, followed by prototype development and real-world validation.  -->
 <!-- I also investigate emerging IoT technologies (e.g., Sparklink, LoRaWAN), with a focus on improving network reliability and capacity, as well as customizing QoS to meet practical industrial needs. -->
-Additionally, I investigate the evolution of IoT technologies, including Sparklink and LoRaWAN, to address practical industrial demands, emphasizing robust network reliability and optimized Quality of Service (QoS).
+I investigate the evolution of IoT technologies, particularly Wi-Fi, Bluetooth and LoRaWAN, to address practical industrial demands, emphasizing robust network reliability and optimized Quality of Service (QoS).
 
 ## Research Interests
 
