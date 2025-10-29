@@ -1,5 +1,15 @@
 main:
 
+  - title: "Unveiling SparkLink Low Energy: a Comparative Measurement Study"
+    authors: Boya Liu, Zhenyu Ren, Yanbo Zhang, Mo Li, Jiaxin Liang, Bin He, Jie Li, Hao Wu, Jingbin Zhou
+    conference_short: TIOT'25
+    conference: ACM Transactions on Internet Of Things <strong>(TIOT)</strong>, 2025.
+    pdf: https://yanbozhang003.github.io/
+    # code: https://zenodo.org/records/11094213
+    # slides: ./assets/files/publications_pdf/acFace_slides_v2_pdf.pdf
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:upLk7N6KZIcJ:scholar.google.com/&output=citation&scisdr=ChUEIUrwELKpsbH45tY:ABGrvjIAAAAAaQH-_tbdzk4Kr4RhB9YHIpEutvg&scisig=ABGrvjIAAAAAaQH-_uxixXJWYvexIJaxfzXxOgs&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/publications_img/sle.png
+
   - title: "LoRaMirror: Illuminating Blind Spots in Urban LPWAN with Reflective Smart Surfaces"
     authors: Songfan Li, <strong>Yanbo Zhang</strong>, Jansen Christian Liando, Li Lu, Mo Li
     conference_short: TMC'25
