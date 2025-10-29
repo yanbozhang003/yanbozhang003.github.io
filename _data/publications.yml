@@ -3,7 +3,7 @@ main:
   - title: "RippleSense: Scalable and Efficient Wideband Spectrum Sensing"
     authors: Andreas Kuster, <strong>Yanbo Zhang</strong>, Mo Li
     conference_short: SenSys'26
-    conference: ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems
+    conference: ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems <strong>(SenSys)</strong>, 2026
     pdf: https://yanbozhang003.github.io/
     # code: https://zenodo.org/records/11094213
     # slides: ./assets/files/publications_pdf/acFace_slides_v2_pdf.pdf
