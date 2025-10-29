@@ -20,7 +20,7 @@
   <li><a href="https://www.sigmobile.org/mobicom/2025/"><autocolor>ACM MobiCom 2025 Competition Co-Chair</autocolor></a></li>
   <li><a href="https://attend.ieee.org/icpads/"><autocolor>IEEE ICPADS 2025</autocolor></a></li>
   <li><a href="https://attend.ieee.org/icpads/"><autocolor>IEEE ICPADS 2024</autocolor></a></li>
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755"><autocolor>ACM MobiCom 2023 Artifacts Evaluation</autocolor></a></li>
+  <li><a href="https://sigmobile.org/mobicom/2023/"><autocolor>ACM MobiCom 2023 Artifacts Evaluation</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
