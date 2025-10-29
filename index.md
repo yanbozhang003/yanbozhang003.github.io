@@ -25,6 +25,7 @@ Additionally, I investigate the evolution of IoT technologies, including Sparkli
 <!-- - **Reconfigurable Intelligent Surface (RIS):** Antenna design and system optimization -->
 
 ## News
+- **[October 2025]** Our paper RippleSense is accepted to SenSys 2026. Congratulations to Andreas!
 - **[October 2025]** Our measurement study on SLE (Sparklink Low Energy) is accepted to ACM TIOT. Congratulations to Boya and Zhenyu!
 - **[July 2025]** Our paper LoRaMirror is accepted to IEEE TMC. 
 - **[April 2025]** I join [CSE, HKUST](https://cse.hkust.edu.hk/) as a Post-doctoral Fellow. 
