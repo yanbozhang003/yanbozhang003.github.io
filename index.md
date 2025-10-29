@@ -33,8 +33,8 @@ Additionally, I investigate the evolution of IoT technologies, including Sparkli
 - **[May 2024]** I join [BITS](https://www.better-iot.com.sg/) as a Research Scientist. 
 - **[May 2024]** We are awarded all four badges from MobiSys Artifact Evaluation. 
 - **[April 2024]** Our paper about acoustic facial recognition is accepted to MobiSys 2024.
-<!-- - **[May 2023]** Commencing work as a Postdoctoral Research Fellow in SCSE, NTU.
-- **[April 2023]** Our paper about general Wi-Fi handwriting recognition is accepted to IEEE TMC.  -->
+<!-- - **[May 2023]** Commencing work as a Postdoctoral Research Fellow in SCSE, NTU. -->
+<!-- - **[April 2023]** Our paper about general Wi-Fi handwriting recognition is accepted to IEEE TMC.  -->
 <!-- - **[January 2023]** Successfully defending my Ph.D thesis.  -->
 
 {% include_relative _includes/publications.md %}
