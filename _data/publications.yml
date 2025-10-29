@@ -7,7 +7,7 @@ main:
     pdf: ./assets/files/publications_pdf/LoRaMirror.pdf
     # code: https://zenodo.org/records/11094213
     # slides: ./assets/files/publications_pdf/acFace_slides_v2_pdf.pdf
-    # bibtex: https://github.com/yanbozhang003/AcFace/blob/main/acm_3643832.3661855.bib
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:upLk7N6KZIcJ:scholar.google.com/&output=citation&scisdr=ChUEIUrwELKpsbH45tY:ABGrvjIAAAAAaQH-_tbdzk4Kr4RhB9YHIpEutvg&scisig=ABGrvjIAAAAAaQH-_uxixXJWYvexIJaxfzXxOgs&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/publications_img/AcFace2.png
 
   - title: "Face Recognition In Harsh Conditions: An Acoustic Based Approach"
