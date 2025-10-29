@@ -1,5 +1,15 @@
 main:
 
+  - title: "LoRaMirror: Illuminating Blind Spots in Urban LPWAN with Reflective Smart Surfaces"
+    authors: Songfan Li, <strong>Yanbo Zhang</strong>, Jansen Christian Liando, Li Lu, Mo Li
+    conference_short: TMC'25
+    conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2025.
+    pdf: ./assets/files/publications_pdf/LoRaMirror.pdf
+    # code: https://zenodo.org/records/11094213
+    # slides: ./assets/files/publications_pdf/acFace_slides_v2_pdf.pdf
+    # bibtex: https://github.com/yanbozhang003/AcFace/blob/main/acm_3643832.3661855.bib
+    image: ./assets/img/publications_img/AcFace2.png
+
   - title: "Face Recognition In Harsh Conditions: An Acoustic Based Approach"
     authors: <strong>Yanbo Zhang</strong>, Panrong Tong, Songfan Li, Yaxiong Xie, Mo Li
     conference_short: MobiSys'24
