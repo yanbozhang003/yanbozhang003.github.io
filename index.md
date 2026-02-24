@@ -20,7 +20,7 @@ I investigate the evolution of IoT technologies, particularly Wi-Fi, Bluetooth a
 
 ## Research Interests
 
-- **Wireless sensing:** Localization and tracking, vital signal monitroing, recognition and identification
+- **Wireless sensing:** Vital signal monitoring, Activity and identity recognition 
 - **IoT communication:** High reliability, Enhanced capacity, Dynamic QoS
 <!-- - **Reconfigurable Intelligent Surface (RIS):** Antenna design and system optimization -->
 
