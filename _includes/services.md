@@ -17,7 +17,7 @@
 <h4 style="margin:0 10px 0;">Conference Organizers and Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://sensys.acm.org/2026/"><autocolor>ACM MobiSys 2026 Artifact Evaluation Committee</autocolor></a></li>
+  <li><a href="https://www.sigmobile.org/mobisys/2026/"><autocolor>ACM MobiSys 2026 Artifact Evaluation Committee</autocolor></a></li>
   <li><a href="https://sensys.acm.org/2026/"><autocolor>ACM SenSys 2026 Demos Program Committee</autocolor></a></li>
   <li><a href="https://www.sigmobile.org/mobicom/2025/"><autocolor>ACM MobiCom 2025 Competition Co-Chair</autocolor></a></li>
   <li><a href="https://attend.ieee.org/icpads/"><autocolor>IEEE ICPADS 2025 Program Committee</autocolor></a></li>
