@@ -28,7 +28,7 @@ main:
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:upLk7N6KZIcJ:scholar.google.com/&output=citation&scisdr=ChUEIUrwELKpsbH45tY:ABGrvjIAAAAAaQH-_tbdzk4Kr4RhB9YHIpEutvg&scisig=ABGrvjIAAAAAaQH-_uxixXJWYvexIJaxfzXxOgs&scisf=4&ct=citation&cd=-1&hl=en
 
   - title: "Unveiling SparkLink Low Energy: a Comparative Measurement Study"
-    authors: Boya Liu, Zhenyu Ren, <strong>Yanbo Zhang</strong>, Mo Li, Jiaxin Liang, Bin He, Jie Li, Hao Wu, Jingbin Zhou
+    authors: Boya Liu<span class="author-note-marker">*</span>, Zhenyu Ren<span class="author-note-marker">*</span>, <strong>Yanbo Zhang</strong>, Mo Li, Jiaxin Liang, Bin He, Jie Li, Hao Wu, Jingbin Zhou <span class="author-note">(* co-first authors)</span>
     conference_short: TIOT'25
     conference: ACM Transactions on Internet Of Things <strong>(TIOT)</strong>, 2025.
     pdf: https://yanbozhang003.github.io/
