@@ -55,7 +55,7 @@ main:
     bibtex: https://github.com/yanbozhang003/AcFace/blob/main/acm_3643832.3661855.bib
 
   - title: "WiRITE: General and Practical Wi-Fi based Hand-Writing Recognition"
-    authors: <strong>Yanbo Zhang</strong>, Weiping Sun, Mo Li
+    authors: <strong>Yanbo Zhang</strong><span class="author-note-marker">*</span>, Weiping Sun<span class="author-note-marker">*</span>, Mo Li <span class="author-note">(* co-first authors)</span>
     conference_short: TMC'23
     conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2023.
     pdf: ./assets/files/publications_pdf/WiRITE.pdf
