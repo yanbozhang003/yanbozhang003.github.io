@@ -9,7 +9,7 @@
 <div class="pub-row">
   <div class="pub-meta">
     {% if link.conference_short %}
-    <abbr class="badge">{{ link.conference_short }}</abbr>
+    <span class="venue-badge">{{ link.conference_short }}</span>
     {% endif %}
   </div>
   <div class="pub-content">
