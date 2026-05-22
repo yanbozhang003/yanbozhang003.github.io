@@ -1,7 +1,7 @@
 main:
 
   - title: "Snatcher: Apple Find My Network Exposes Your Lost Devices To Strangers"
-    authors: Zhenyu Ren<sup>*</sup>, <strong>Yanbo Zhang</strong><sup>*</sup>, Boya Liu, Mo Li <span style="white-space: nowrap;">(<sup>*</sup>co-first authors)</span>
+    authors: Zhenyu Ren<span class="author-note-marker">*</span>, <strong>Yanbo Zhang</strong><span class="author-note-marker">*</span>, Boya Liu, Mo Li <span class="author-note">(* co-first authors)</span>
     conference_short: CCS'26
     conference: ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2026
     pdf: https://yanbozhang003.github.io/

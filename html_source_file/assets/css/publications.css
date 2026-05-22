@@ -38,6 +38,10 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li .periodical,
 .publications ol.bibliography li .links { line-height: 1.6; }
 
+.publications ol.bibliography li .author .author-note-marker { color: var(--global-theme-color); font-size: 0.8em; font-weight: 700; vertical-align: super; margin-left: 0.08rem; }
+
+.publications ol.bibliography li .author .author-note { color: var(--global-text-color-light); font-size: 0.95rem; white-space: nowrap; }
+
 .publications ol.bibliography li .links { display: flex; flex-wrap: wrap; gap: 0.45rem; margin-top: 0.25rem; }
 
 .publications ol.bibliography li .author a { border-bottom: 1px var(--global-theme-color); }
