@@ -18,7 +18,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li { margin-bottom: 1.5rem; }
 
-.publications ol.bibliography li .pub-row { display: flex; flex-direction: column; gap: 0.45rem; }
+.publications ol.bibliography li .publication-entry { display: flex; flex-direction: column; align-items: flex-start; gap: 0.45rem; width: 100%; }
 
 .publications ol.bibliography li .pub-meta { display: flex; align-items: center; }
 

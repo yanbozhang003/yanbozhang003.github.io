@@ -6,7 +6,7 @@
 {% for link in site.data.publications.main %}
 
 <li>
-<div class="pub-row">
+<div class="publication-entry">
   <div class="pub-meta">
     {% if link.conference_short %}
     <span class="venue-badge">{{ link.conference_short }}</span>
@@ -43,8 +43,6 @@
   </div>
 </div>
 </li>
-
-<br>
 
 {% endfor %}
 
