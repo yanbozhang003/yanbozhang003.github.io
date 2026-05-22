@@ -59,7 +59,7 @@ main:
     conference_short: TMC'23
     conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2023.
     pdf: ./assets/files/publications_pdf/WiRITE.pdf
-    code: https://github.com/yanbozhang003/WiRITE
+    # code: https://github.com/yanbozhang003/WiRITE
     bibtex: https://github.com/yanbozhang003/WiRITE/blob/main/Bibtex
 
   - title: "Channel Adapted Antenna Augmentation for Improved Wi-Fi Throughput"
@@ -67,7 +67,7 @@ main:
     conference_short: TMC'22
     conference: IEEE Transactions on Mobile Computing <strong>(TMC)</strong>, 2022.
     pdf: ./assets/files/publications_pdf/WINAS.pdf
-    code: https://github.com/yanbozhang003/WINAS
+    # code: https://github.com/yanbozhang003/WINAS
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://github.com/yanbozhang003/WINAS/blob/main/Bibtex
 
@@ -76,6 +76,6 @@ main:
     conference_short: MobiCom'18
     conference: Proceedings of the 24th Annual International Conference on Mobile Computing and Networking <strong>(MobiCom)</strong>, 2018.
     pdf: ./assets/files/publications_pdf/SWAN.pdf
-    code: https://github.com/xieyaxiongfly/SWAN_src_AP
+    # code: https://github.com/xieyaxiongfly/SWAN_src_AP
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:V4PEMbqI4roJ:scholar.google.com/&output=citation&scisdr=ClFqvcr6EMGB8wCPJC8:AFWwaeYAAAAAZaOJPC8qlxiX0cJ3OIk6AHyzTtQ&scisig=AFWwaeYAAAAAZaOJPMU77axRMbxfl0a7YQa0_8I&scisf=4&ct=citation&cd=-1&hl=en
