@@ -19,6 +19,7 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.sigmobile.org/mobisys/2026/"><autocolor>ACM MobiSys 2026 Artifact Evaluation Committee</autocolor></a></li>
   <li><a href="https://sensys.acm.org/2026/"><autocolor>ACM SenSys 2026 Demos Program Committee</autocolor></a></li>
+  <li><autocolor>GPC 2026 Program Committee</autocolor></li>
   <li><a href="https://www.sigmobile.org/mobicom/2025/"><autocolor>ACM MobiCom 2025 Competition Co-Chair</autocolor></a></li>
   <li><a href="https://attend.ieee.org/icpads/"><autocolor>IEEE ICPADS 2025 Program Committee</autocolor></a></li>
   <li><a href="https://attend.ieee.org/icpads/"><autocolor>IEEE ICPADS 2024 Program Committee</autocolor></a></li>
@@ -29,12 +30,14 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755"><autocolor>IEEE Transactions on Mobile Computing (TMC)</autocolor></a></li>
+  <li><a href="https://dl.acm.org/journal/ton"><autocolor>IEEE/ACM Transactions on Networking (TON)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693"><autocolor>IEEE Transactions on Wireless Communications (TWC)</autocolor></a></li>
   <li><a href="https://www.comsoc.org/publications/journals/ieee-ojcoms"><autocolor>IEEE Open Journal of the Communications Society (OJ-COMS)</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693"><autocolor>IEEE Wireless Communication Letters (WCL)</autocolor></a></li>
   <li><a href="https://dl.acm.org/journal/tosn"><autocolor>ACM Transactions on Sensor Networks (TOSN)</autocolor></a></li>
   <li><a href="https://dl.acm.org/journal/tiot"><autocolor>ACM Transactions on Internet of Things (TIOT)</autocolor></a></li>
 </ul>
 
-<div style="max-width:125px; height:60px; margin:auto;">
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=7IM6Imp2Of47qjiLYjNu8OnZBLJhF3vCsqXiKh9zdXU'></script>
+<div style="max-width:200px; margin:auto;">
+  <script type='text/javascript' id='clustrmaps' src='https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=7IM6Imp2Of47qjiLYjNu8OnZBLJhF3vCsqXiKh9zdXU'></script>
 </div>

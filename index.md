@@ -4,27 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am currently a Postdoctoral Fellow at the Hong Kong University of Science and Technology (HKUST). Prior to this, I was a Postdoctoral Research Fellow at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/). I also worked as the AIoT scientist at [BITS Pte. Ltd. (Singapore)](https://www.better-iot.com.sg/), a startup focused on intelligent IoT solutions.
+I am currently a Post-doctoral Fellow at the Hong Kong University of Science and Technology (HKUST). Prior to this, I was a Postdoctoral Research Fellow at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/). I also worked as an AIoT Scientist and Co-Founder at [Better IoT Solutions Pte. Ltd. (Singapore)](https://www.better-iot.com.sg/), a startup focused on intelligent IoT solutions.
 I received my Ph.D. in 2023 from the [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), NTU, under the supervision of [Professor Mo Li](https://cse.hkust.edu.hk/~lim/). Earlier, I earned my B.E. degree in 2017 from the [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/).
-For more details, please refer to my [CV](./assets/files/CV/CV_Yanbo_English_2025.pdf).
-<!-- the [School of Electronics and Information Engineering](https://seie.hit.edu.cn/),  -->
-<!-- Please refer to my CV (in [English](./assets/files/CV/CV_Yanbo_English.pdf) or [中文](./assets/files/CV/CV-Yanbo_Chinese2.pdf)) for more detailed information.  -->
+For more details, please refer to my [CV](./assets/files/CV/Yanbo_Zhang_CV_2026__1_.pdf).
 
-<!-- My research focuses on intelligent localization and sensing systems based on wireless signals. By leveraging ubiquitous ambient signals—including multi-protocol radio (e.g., Wi-Fi, UWB) and acoustic waves—I develop methods to observe and interpret environmental dynamics. My work combines advanced signal processing with AI-driven algorithms to extract precise location and state information of target objects, followed by real-world system implementation and validation.
-Additionally, I explore the evolution of IoT technologies (e.g., LoRaWAN, Sparklink) for industrial applications, with a focus on enhancing network reliability and tailoring Quality of Service (QoS) to meet the demands of complex industrial environments. -->
-
-My research focuses on intelligent localization and sensing using wireless signals. By leveraging ambient signals—including different types of radio (e.g., Wi-Fi, millimeter wave) and acoustic waves—I develop methods to perceive and interpret environmental dynamics. 
-<!-- My work combines signal processing and AI algorithms to extract precise location and state information, followed by prototype development and real-world validation.  -->
-<!-- I also investigate emerging IoT technologies (e.g., Sparklink, LoRaWAN), with a focus on improving network reliability and capacity, as well as customizing QoS to meet practical industrial needs. -->
-I investigate the evolution of IoT technologies, particularly Wi-Fi, Bluetooth and LoRaWAN, to address practical industrial demands, emphasizing robust network reliability and optimized Quality of Service (QoS).
+My research centers on scene-adaptive intelligent wireless sensing and IoT systems. I develop methods that bridge electromagnetic propagation physics with deep learning to enable robust and generalizable sensing across diverse environments and tasks.
+I also investigate IoT networking and physical-layer enhancement, focusing on reliable data transmission and link quality optimization for heterogeneous wireless networks.
 
 ## Research Interests
 
-- **Wireless sensing:** Vital signal monitoring, Activity and identity recognition 
-- **IoT communication:** High reliability, Enhanced capacity, Dynamic QoS
-<!-- - **Reconfigurable Intelligent Surface (RIS):** Antenna design and system optimization -->
+- **Wireless sensing:** Contactless recognition, identification, and health monitoring using Wi-Fi, acoustic, and radar signals
+- **IoT networking and physical-layer enhancement:** Reliable data transmission, link quality optimization for heterogeneous wireless networks
 
 ## News
+- **[2026]** Our paper Pervital is accepted to CCF TPCI.
 - **[May 2025]** Our paper Snatcher is accepted to CCS 2026. Congratulations to Zhenyu!
 - **[April 2025]** Our paper TriLoRa is accepted to ICDCS 2026! 
 - **[October 2025]** Our paper RippleSense is accepted to SenSys 2026. Congratulations to Andreas!
