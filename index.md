@@ -17,7 +17,6 @@ I also investigate IoT networking and physical-layer enhancement, focusing on re
 - **IoT networking and physical-layer enhancement:** Reliable data transmission, link quality optimization for heterogeneous wireless networks
 
 ## News
-- **[2026]** Our paper Pervital is accepted to CCF TPCI.
 - **[May 2025]** Our paper Snatcher is accepted to CCS 2026. Congratulations to Zhenyu!
 - **[April 2025]** Our paper TriLoRa is accepted to ICDCS 2026! 
 - **[October 2025]** Our paper RippleSense is accepted to SenSys 2026. Congratulations to Andreas!

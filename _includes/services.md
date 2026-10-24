@@ -38,6 +38,15 @@
   <li><a href="https://dl.acm.org/journal/tiot"><autocolor>ACM Transactions on Internet of Things (TIOT)</autocolor></a></li>
 </ul>
 
-<div style="max-width:200px; margin:auto;">
-  <script type='text/javascript' id='clustrmaps' src='https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=7IM6Imp2Of47qjiLYjNu8OnZBLJhF3vCsqXiKh9zdXU'></script>
+<br>
+
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<div style="text-align:center; color:#999; font-size:0.85rem; margin-bottom:10px;">
+  <span id="busuanzi_container_site_pv">Total visits: <span id="busuanzi_value_site_pv"></span></span>
+  &nbsp;|&nbsp;
+  <span id="busuanzi_container_site_uv">Visitors: <span id="busuanzi_value_site_uv"></span></span>
+</div>
+
+<div style="width:300px; margin:auto;">
+  <script type='text/javascript' id='clustrmaps' src='https://cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=7IM6Imp2Of47qjiLYjNu8OnZBLJhF3vCsqXiKh9zdXU&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 </div>
