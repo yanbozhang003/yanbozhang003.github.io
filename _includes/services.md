@@ -40,13 +40,14 @@
 
 <br>
 
-<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<!-- Vercount: drop-in replacement for busuanzi (busuanzi.ibruce.info backend is down), reads the same busuanzi_* element IDs -->
+<script defer src="https://events.vercount.one/js"></script>
 <div style="text-align:center; color:#999; font-size:0.85rem; margin-bottom:10px;">
-  <span id="busuanzi_container_site_pv">Total visits: <span id="busuanzi_value_site_pv"></span></span>
-  &nbsp;|&nbsp;
-  <span id="busuanzi_container_site_uv">Visitors: <span id="busuanzi_value_site_uv"></span></span>
+  <span id="busuanzi_container_site_pv" style="display:none;">Total visits: <span id="busuanzi_value_site_pv"></span></span>
+  <span id="busuanzi_container_site_uv" style="display:none;">&nbsp;|&nbsp;Visitors: <span id="busuanzi_value_site_uv"></span></span>
 </div>
 
+<!-- ClustrMaps service is offline (cdn.clustrmaps.com no longer resolves)
 <div style="width:300px; margin:auto;">
   <script type='text/javascript' id='clustrmaps' src='https://cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=7IM6Imp2Of47qjiLYjNu8OnZBLJhF3vCsqXiKh9zdXU&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
-</div>
+</div> -->
