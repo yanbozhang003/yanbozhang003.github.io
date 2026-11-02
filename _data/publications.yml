@@ -4,25 +4,25 @@ main:
     authors: Zhenyu Ren<span class="author-note-marker">*</span>, <strong>Yanbo Zhang</strong><span class="author-note-marker">*</span>, Boya Liu, Mo Li <span class="author-note">(* co-first authors)</span>
     conference_short: CCS'26
     conference: ACM Conference on Computer and Communications Security <strong>(CCS)</strong>, 2026
-    pdf: https://yanbozhang003.github.io/
+    pdf: ./assets/files/publications_pdf/Snatcher_arxiv.pdf
     # code: https://zenodo.org/records/11094213
-    # slides: ./assets/files/publications_pdf/acFace_slides_v2_pdf.pdf
+    # slides: ./assets/files/publications_pdf/Snatcher_arxiv.pdf
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:upLk7N6KZIcJ:scholar.google.com/&output=citation&scisdr=ChUEIUrwELKpsbH45tY:ABGrvjIAAAAAaQH-_tbdzk4Kr4RhB9YHIpEutvg&scisig=ABGrvjIAAAAAaQH-_uxixXJWYvexIJaxfzXxOgs&scisf=4&ct=citation&cd=-1&hl=en
 
   - title: "TriLoRa: Improving LoRa PHY Data Rate for High-Density LoRaWAN"
     authors: <strong>Yanbo Zhang</strong>, Qirui Liu, Songfan Li, Mo Li
     conference_short: ICDCS'26
     conference: IEEE International Conference on Distributed Computing Systems <strong>(ICDCS)</strong>, 2026
-    pdf: https://yanbozhang003.github.io/
+    pdf: ./assets/files/publications_pdf/TriLoRa - final.pdf
     # code: https://zenodo.org/records/11094213
-    # slides: ./assets/files/publications_pdf/acFace_slides_v2_pdf.pdf
+    # slides: ./assets/files/publications_pdf/TriLoRa - final.pdf
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:upLk7N6KZIcJ:scholar.google.com/&output=citation&scisdr=ChUEIUrwELKpsbH45tY:ABGrvjIAAAAAaQH-_tbdzk4Kr4RhB9YHIpEutvg&scisig=ABGrvjIAAAAAaQH-_uxixXJWYvexIJaxfzXxOgs&scisf=4&ct=citation&cd=-1&hl=en
 
   - title: "RippleSense: Scalable and Efficient Wideband Spectrum Sensing"
     authors: Andreas Kuster, <strong>Yanbo Zhang</strong>, Mo Li
     conference_short: SenSys'26
     conference: ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems <strong>(SenSys)</strong>, 2026
-    pdf: https://yanbozhang003.github.io/
+    pdf: ./assets/files/publications_pdf/RippleSense_ScalableAndEfficientWidebandSpectrumSensing.pdf
     # code: https://zenodo.org/records/11094213
     # slides: ./assets/files/publications_pdf/acFace_slides_v2_pdf.pdf
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:upLk7N6KZIcJ:scholar.google.com/&output=citation&scisdr=ChUEIUrwELKpsbH45tY:ABGrvjIAAAAAaQH-_tbdzk4Kr4RhB9YHIpEutvg&scisig=ABGrvjIAAAAAaQH-_uxixXJWYvexIJaxfzXxOgs&scisf=4&ct=citation&cd=-1&hl=en
@@ -37,7 +37,7 @@ main:
     authors: Boya Liu<span class="author-note-marker">*</span>, Zhenyu Ren<span class="author-note-marker">*</span>, <strong>Yanbo Zhang</strong>, Mo Li, Jiaxin Liang, Bin He, Jie Li, Hao Wu, Jingbin Zhou <span class="author-note">(* co-first authors)</span>
     conference_short: TIOT'25
     conference: ACM Transactions on Internet Of Things <strong>(TIOT)</strong>, 2025.
-    pdf: https://yanbozhang003.github.io/
+    pdf: ./assets/files/publications_pdf/tiot_final.pdf
     # code: https://zenodo.org/records/11094213
     # slides: ./assets/files/publications_pdf/acFace_slides_v2_pdf.pdf
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:upLk7N6KZIcJ:scholar.google.com/&output=citation&scisdr=ChUEIUrwELKpsbH45tY:ABGrvjIAAAAAaQH-_tbdzk4Kr4RhB9YHIpEutvg&scisig=ABGrvjIAAAAAaQH-_uxixXJWYvexIJaxfzXxOgs&scisf=4&ct=citation&cd=-1&hl=en
