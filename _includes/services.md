@@ -47,7 +47,7 @@
   <span id="busuanzi_container_site_uv" style="display:none;">&nbsp;|&nbsp;Visitors: <span id="busuanzi_value_site_uv"></span></span>
 </div>
 
-<!-- ClustrMaps service is offline (cdn.clustrmaps.com no longer resolves)
-<div style="width:300px; margin:auto;">
-  <script type='text/javascript' id='clustrmaps' src='https://cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=7IM6Imp2Of47qjiLYjNu8OnZBLJhF3vCsqXiKh9zdXU&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
-</div> -->
+<!-- Flag Counter visitor map (replaces ClustrMaps, which went offline). Keep the image non-lazy so every visit is counted. -->
+<div style="text-align:center; margin-bottom:10px;">
+  <a href="https://s05.flagcounter.com/more/d2H" target="_blank" rel="noopener"><img src="https://s05.flagcounter.com/map/d2H/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0" style="max-width:100%; height:auto;"></a>
+</div>
