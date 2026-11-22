@@ -6,15 +6,18 @@ layout: homepage
 
 I am currently a Post-doctoral Fellow at the Hong Kong University of Science and Technology (HKUST). Prior to this, I was a Postdoctoral Research Fellow at [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/). I also worked as an AIoT Scientist and Co-Founder at [Better IoT Solutions Pte. Ltd. (Singapore)](https://www.better-iot.com.sg/), a startup focused on intelligent IoT solutions.
 I received my Ph.D. in 2023 from the [College of Computing and Data Science (CCDS)](https://www.ntu.edu.sg/computing), NTU, under the supervision of [Professor Mo Li](https://cse.hkust.edu.hk/~lim/). Earlier, I earned my B.E. degree in 2017 from the [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/).
-For more details, please refer to my [CV](./assets/files/CV/Yanbo_Zhang_CV_2026__1_.pdf).
+For more details, please refer to my [CV](./assets/files/CV/CV_main.pdf).
 
-My research centers on scene-adaptive intelligent wireless sensing and IoT systems. I develop methods that bridge electromagnetic propagation physics with deep learning to enable robust and generalizable sensing across diverse environments and tasks.
-I also investigate IoT networking and physical-layer enhancement, focusing on reliable data transmission and link quality optimization for heterogeneous wireless networks.
+My research builds **generalizable wireless sensing systems** that provide reliable performance when the environment, the task, or the link quality changes. Specifically, I develop sensing frameworks that combine signal propagation physics with machine learning, and link enhancement techniques that keep the underlying wireless signals dependable. These systems perceive people and their surroundings through wireless signals, from activities (e.g., handwriting) and identity (e.g., face recognition) to physiological states (e.g., respiration, sleep), enabling applications such as indoor localization, user authentication, and smart healthcare. My research is full-stack and system-oriented, spanning radio hardware, signal processing, and learning algorithms, with an emphasis on prototypes that work in real-world deployments.
+
+<div style="text-align: center; margin: 1.2em 0 0.5em 0;">
+  <img src="./assets/img/research_overview.png" alt="Research overview: Generalizable wireless sensing across environments, tasks, and link conditions" style="max-width: 100%; height: auto;">
+</div>
 
 ## Research Interests
 
 - **Wireless sensing:** Contactless recognition, identification, and health monitoring using Wi-Fi, acoustic, and radar signals
-- **IoT networking and physical-layer enhancement:** Reliable data transmission, link quality optimization for heterogeneous wireless networks
+- **Wireless link enhancement:** Spectrum awareness and channel reshaping for reliable data transmission in heterogeneous wireless networks
 
 ## News
 - **[May 2025]** Our paper Snatcher is accepted to CCS 2026. Congratulations to Zhenyu!
