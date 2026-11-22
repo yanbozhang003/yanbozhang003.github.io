@@ -11,7 +11,7 @@ For more details, please refer to my [CV](./assets/files/CV/CV_main.pdf).
 My research builds **generalizable wireless sensing systems** that provide reliable performance when the environment, the task, or the link quality changes. Specifically, I develop sensing frameworks that combine signal propagation physics with machine learning, and link enhancement techniques that keep the underlying wireless signals dependable. These systems perceive people and their surroundings through wireless signals, from activities (e.g., handwriting) and identity (e.g., face recognition) to physiological states (e.g., respiration, sleep), enabling applications such as indoor localization, user authentication, and smart healthcare. My research is full-stack and system-oriented, spanning radio hardware, signal processing, and learning algorithms, with an emphasis on prototypes that work in real-world deployments.
 
 <div style="text-align: center; margin: 1.2em 0 0.5em 0;">
-  <img src="./assets/files/CV/CV_figure2.svg" alt="Research overview: Generalizable wireless sensing across environments, tasks, and link conditions" style="max-width: 100%; height: auto;">
+  <img src="./assets/files/CV/CV_figure2.svg" alt="Research overview: Generalizable wireless sensing across environments, tasks, and link conditions" style="max-width: 80%; height: auto;">
 </div>
 
 ## Research Interests
